@@ -1,7 +1,7 @@
 #### Current Projects 🦚
 
 - 🧑‍🏫 **[ADPList MCP](https://github.com/srirae/adplist-mcp)** • MCP for ADPList. (Under Progress)
-- 🗺️ **[yclocal](https://github.com/srirae/yclocal)** • YC startups near you. (Under Progress)
+- 🗺️ **[ycpad](https://github.com/srirae/ycpad)** • YC startups near you. (Under Progress)
 - 📍 **[nomad](https://github.com/srirae/nomad)** • Aggregator API for locations.
 - ✂️ **[Nyx Snippets](https://github.com/srirae/Nyx-snippets)** • Snippets for Discord Bots.
 
