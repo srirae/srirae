@@ -8,7 +8,7 @@
 ---
 #### Open Source Contributions 🐙
 - 🎙️**[freestyle](https://github.com/freestyle-voice/freestyle)** • Voice-to-text dictation app. Source available, free, and local first.  ![GitHub Repo stars](https://img.shields.io/github/stars/freestyle-voice/freestyle?style=social)
-- 🗾 **[kana-dojo](https://github.com/freestyle-voice/freestyle)** • Aesthetic, minimalist platform for learning Japanese.  ![GitHub Repo stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=social)
+- 🗾 **[kana-dojo](https://github.com/lingdojo/kana-dojo)** • Aesthetic, minimalist platform for learning Japanese.  ![GitHub Repo stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=social)
 
 #### Learning 📙
 - 🤖 **[ai-learning](https://github.com/srirae/ai-learning)** • Learning AI from the bare bottom (Under Progress)
