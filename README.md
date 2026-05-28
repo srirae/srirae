@@ -1,13 +1,19 @@
 #### Current Projects 🦚
 
-- 🧑‍🏫 **[ADPList MCP](https://github.com/srirae/adplist-mcp)** • MCP for ADPList. (Under Progress)
-- 🗺️ **[ycpad](https://github.com/srirae/ycpad)** • YC startups near you. 
-- 📍 **[nomad](https://github.com/srirae/nomad)** • Aggregator API for locations.
-- ✂️ **[Nyx Snippets](https://github.com/srirae/Nyx-snippets)** • Snippets for Discord Bots.
+| | |
+|---|---|
+| **[ADPList MCP](https://github.com/srirae/adplist-mcp)** `wip` | **[ycpad](https://github.com/srirae/ycpad)** |
+| MCP server to query ADPList mentors and sessions — bring mentorship data into any AI workflow. | Find YC-backed startups near you. Explore the ecosystem by location. |
+| 🔵 TypeScript | 🔵 TypeScript |
+| **[nomad](https://github.com/srirae/nomad)** | **[Nyx Snippets](https://github.com/srirae/Nyx-snippets)** |
+| Aggregator API for location data — unified interface across multiple location providers. | Reusable code snippets for building Discord bots faster. |
+| 🐍 Python | 🟡 JavaScript |
+
+---
 
 ---
 #### Open Source Contributions 🐙
-- 🎙️**[freestyle](https://github.com/freestyle-voice/freestyle)** • Voice-to-text dictation app. Source available, free, and local first.  ![GitHub Repo stars](https://img.shields.io/github/stars/freestyle-voice/freestyle?style=social)
+- 🎙️ **[freestyle](https://github.com/freestyle-voice/freestyle)** — Voice-to-text dictation, local-first, source-available, free. ![stars](https://img.shields.io/github/stars/freestyle-voice/freestyle?style=social)
 - 🗾 **[kana-dojo](https://github.com/lingdojo/kana-dojo)** • Aesthetic, minimalist platform for learning Japanese.  ![GitHub Repo stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=social)
 
 #### Learning 📙
