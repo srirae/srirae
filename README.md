@@ -1,4 +1,4 @@
-#### Current Projects 🦚
+#### ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ 🦚
 
 | | |
 |---|---|
@@ -12,11 +12,11 @@
 ---
 
 ---
-#### Open Source Contributions 🐙
+#### ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ 🐙
 - 🎙️ **[freestyle](https://github.com/freestyle-voice/freestyle)** — Voice-to-text dictation, local-first, source-available, free. ![stars](https://img.shields.io/github/stars/freestyle-voice/freestyle?style=social)
 - 🗾 **[kana-dojo](https://github.com/lingdojo/kana-dojo)** • Aesthetic, minimalist platform for learning Japanese.  ![GitHub Repo stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=social)
 
-#### Learning 📙
+#### ʟᴇᴀʀɴɪɴɢ 📙
 - 🤖 **[ai-learning](https://github.com/srirae/ai-learning)** • Learning AI from the bare bottom (Under Progress)
 Original Repo: **[ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main)**
 
