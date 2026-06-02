@@ -17,7 +17,7 @@
 - 🗾 **[kana-dojo](https://github.com/lingdojo/kana-dojo)** • Aesthetic, minimalist platform for learning Japanese.  ![GitHub Repo stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=social)
 
 #### ʟᴇᴀʀɴɪɴɢ 📙
-- 🤖 **[ai-learning](https://github.com/srirae/ai-learning)** • Learning AI from the bare bottom (Under Progress)
+- 🤖 **[ai](https://github.com/srirae/ai)** • Learning AI from the bare bottom (Under Progress)
 Original Repo: **[ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main)**
 
 ![GitHub Profile Views](https://gitviews.com/user/srirae.svg)
