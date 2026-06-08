@@ -1,4 +1,12 @@
-## projects
+<div align="center">
+
+# Sri Vamsi Rajesh
+
+· CS @ NJIT ·
+
+[website](https://srirae.vercel.app) · [LinkedIn](https://www.linkedin.com/in/srivamsirajesh) · [email](mailto:sr2734@njit.edu)
+
+</div>
 
 ### api & infra
 
@@ -20,12 +28,6 @@
 |---|---|
 | [**freestyle**](https://github.com/freestyle-voice/freestyle) | Voice-to-text dictation — local-first, source-available, free. ![Stars](https://img.shields.io/github/stars/freestyle-voice/freestyle?style=flat-square&color=gray) |
 | [**kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese kana. ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square&color=gray) |
-
-### learning
-
-| | |
-|---|---|
-| [**ai**](https://github.com/srirae/ai) | AI engineering from scratch — bottom-up study notes and implementations. |
 
 ---
 
