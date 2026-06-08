@@ -12,7 +12,7 @@
 
 | | |
 |---|---|
-| [**adplist-mcp**](https://github.com/srirae/adplist-mcp) | MCP server to query ADPList mentors and sessions — bring mentorship data into any AI workflow. ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
+| [**adplist-mcp**](https://github.com/srirae/adplist-mcp) | MCP server to query ADPList mentors and sessions. ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
 | [**nomad**](https://github.com/srirae/nomad) | Aggregator API for location data — unified interface across multiple location providers. ![Python](https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white) |
 | [**ycpad**](https://github.com/srirae/ycpad) | Find YC-backed startups near you. Explore the ecosystem by location. ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
 
